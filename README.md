@@ -63,6 +63,5 @@ COOKIE_DOMAIN=localhost
 {
   "dev": "nodemon index.js",
   "start": "node index.js",
-  "lint": "eslint ."
 }
 ```
