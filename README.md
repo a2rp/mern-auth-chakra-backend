@@ -9,6 +9,13 @@ Cookie-based JWT auth API for a MERN app (Express + MongoDB + Chakra UI front-en
 
 ---
 
+**Repos**
+
+-   Backend → https://github.com/a2rp/mern-auth-chakra-backend _(this repo)_
+-   Frontend → https://github.com/a2rp/mern-auth-chakra-frontend
+
+---
+
 ## Requirements
 
 -   Node.js **18+**
